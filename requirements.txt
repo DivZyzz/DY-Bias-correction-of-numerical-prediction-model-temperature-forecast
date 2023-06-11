@@ -2,7 +2,6 @@ numpy==1.24.2
 streamlit==1.20.0
 python ==3.8
 pandas
-sklearn
 pickle
-
+scikit-learn
 
